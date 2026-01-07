@@ -1,0 +1,16 @@
+./update-credits.sh
+./bindgen.sh
+./release-notes.py
+./release.sh
+./ab_plot.py
+./test-popular-containers/test-docker-rootfs.py
+./test-popular-containers/build_rootfs.sh
+./ab_test.py
+./bump-version.sh
+./sandbox.py
+./test_bindings.py
+./release-prepare.sh
+./gh_release.py
+./test.sh
+./release-tag.sh
+./setup-ci-artifacts.sh

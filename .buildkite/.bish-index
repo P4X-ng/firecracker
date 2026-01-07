@@ -1,0 +1,9 @@
+./pipeline_cross.py
+./pipeline_perf.py
+./pipeline_cpu_template.py
+./pipeline_docker_popular.py
+./pipeline_release_qa.py
+./common.py
+./pipeline_pr_no_block.py
+./pipeline_pr.py
+./pipeline_coverage.py

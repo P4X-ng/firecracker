@@ -1,0 +1,3 @@
+./guest_configs/DISCLAIMER.md
+./rebuild.sh
+./chroot.sh
